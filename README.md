@@ -1,4 +1,4 @@
-# Hello im Lanred!
+### Hello im Lanred!
 I like engineering, game development, and web development.
 
 Currently studying engineering, sveltekit, and C++.
