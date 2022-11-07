@@ -1,7 +1,16 @@
-### Hello im Lanred!
-I like engineering, game development, and web development.
+### Hello im Landon!
+Im 15yr's old and I am currently studying engineering and doing programming/ui design as a hobby.
 
-Currently studying engineering, sveltekit, and C++.
+I know:
+node.js
+express
+Svelte(&Kit)
+discord.js
+HTML (&EJS : templating for HTML)
+CSS (&Tailwind CSS)
+JS (&TS)
+Lua (&Luau)
+Python
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lanred-Dev)](https://github.com/anuraghazra/github-readme-stats)
 
