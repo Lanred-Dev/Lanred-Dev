@@ -1,5 +1,5 @@
-### Hello im Landon!
-Im 15yr's old and I am currently studying engineering and doing programming/ui design as a hobby.
+### Hello im Lanred!
+I am currently studying engineering and doing programming/ui design as a hobby.
 
 I know:
 node.js
