@@ -16,6 +16,7 @@ I am currently studying engineering and doing programming/ui design as a hobby.
   - Lua
     - Luau
   - Python
+  - C++
 
 ### Cards
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lanred-Dev)](https://github.com/anuraghazra/github-readme-stats)
