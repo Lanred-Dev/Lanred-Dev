@@ -1,4 +1,4 @@
-### Hello im Lanred!
+### Hello im Landon!
 I am currently studying engineering and doing programming/ui design as a hobby.
 
 ### I know
